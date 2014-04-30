@@ -97,17 +97,7 @@ function fbsm_options_page()
 <center>
 <div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
 <div class="fb-post" data-href="https://www.facebook.com/WPDeveloperNet/posts/745027968850750" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/WPDeveloperNet/posts/745027968850750">Post</a> by <a href="https://www.facebook.com/WPDeveloperNet">WPDeveloper</a>.</div></div>
-<img src="<?php echo FBSM_PLUGIN_URL."/arrow.png"?>" id="embed_overlay_image" />
-<style type="text/css">
-#embed_overlay_image{
-position: absolute;
-margin-left: -228px;
-margin-top: 422px;
-width: 150px;
-height: 150px;
-}
-</style>
-<br /><br /><br /><br /><br /><br />
+<br /><br />
 </center>
 <!-- end embeded example -->
            
