@@ -3,7 +3,7 @@
  * Plugin Name: Facebook Secret Meta
  * Plugin URI: http://wpdeveloper.net/free-plugin/facebook-secret-meta/
  * Description: Only this Secret Meta plugin enables Facebook's brand-new Author By info at News Feed.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: WPDeveloper.net
  * Author URI: http://wpdeveloper.net
  * License: GPLv2+
