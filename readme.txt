@@ -1,103 +1,1 @@
-=== Facebook Secret Meta ===
-Contributors: Asif2BD, onetarek
-Donate link: http://wordpressfoundation.org/donate/
-Tags: Facebook Meta, Facebook, Facebook Author Meta, Facebook New Meta, Facebook News Feed, Facebook By, Facebook Secret Meta
-Requires at least: 2.5.0
-Tested up to: 3.9.0
-Stable tag: 1.0.0
-License: GPLv2+
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-Only this Secret Meta plugin enables Facebook's brand-new Author By info at Facebook News Feed. Check Screenshot & Live Example!
-
-== Description ==
-
-[WPDeveloper.net](http://wpdeveloper.net/) brings 'Facebook Secret Meta' for all WordPress user for free. 
-
-You must have seen Facebook new home feed, where it shows bigger image, even for link share. Did you noticed, now it automatically shows a bit more info about the website link, just below the image and text? Check this live [example](https://www.facebook.com/WPDeveloperNet/posts/745027968850750).
-
-![Facebook Author Info highlighted](http://wpdeveloper.net/wp-content/uploads/2014/04/With-Facebook-Author-Info-hilighted.png "Facebook Author Info highlighted")
-
-[Facebook Secret Meta](http://wpdeveloper.net/free-plugin/facebook-secret-meta/) could bring that feature for you. It will add the secret codes to your site, and from now whenever anybody shares your blog/site's link in Facebook they will see you site's info and **New** Author By info.
-
-**Special Note:** Even if you have SEO plugin like **Yoast SEO**, or **All-in-One SEO** or any plugin which add normal meta or Open Graph Meta (OG meta), you will still need this plugin. There is no other plugin, or any guide anywhere in the net that describe how to gain this feature. **Only this secret plugin could bring this exclusive new feature.** 
-
-**Feature Includes:**
-
-*   Super easy to use, will take just 30-sec.
-*   You could add customized "Author By" info, just heads over to the plugin Option page, and fill the one-line form how you want it. 
-*   Very light weight, and works instantly.
-*   Ability to dynamically show post Author Name as "Author By" & more feature (Premium Feature)
- 
-**Premium version with more features coming soon, [check](http://wpdeveloper.net/go/FSMPro).**
-
-
-
-== Installation ==
-
-= Modern Way: =
-1. Go to the WordPress Dashboard "Add New Plugin" section.
-2. Search For "Facebook Secret Meta". 
-3. Install, then Activate it.
-
-= Old Way: =
-1. Upload the ` facebook-secret-meta` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress.
-
-
-= How To Enable Facebook Secret Meta: =
-
-1. Activate the Plugin.
-2. Heads over to the plugin Option page, and fill the one-line form how you want your "Author By" info.
-
-You are done, now post something new and share at Facebook.
-
-
-
-
-
-== Frequently Asked Questions ==
-
-= Does it need any theme customization or anything? =
-
-No, just activate the plugin and follow the steps.
-
-= Does it work on old post? =
-
-Yes, but only concern is Facebook Cache. Facebook retrieve meta info from cache, so even if you clean cache, Facebook might load meta from cache when you did not installed this plugin.  
-
-= Do you have more detail guideline? =
-
-Yes, check [this page](http://wpdeveloper.net/free-plugin/twitter-cards-meta/#tab2) for detail guide.
-
-= How can I get Support? =
-
-Use plugin support button in WordPress.org extended listing.
-
-More FAQs - [here](http://wpdeveloper.net/free-plugin/facebook-secret-meta/#tab3)
-
-== Screenshots ==
-
-1. Example of Author By (highlighted)
-2. Without this plugin, just like your site before activating this plugin
-3. Option Page
-
-
-
-== Changelog ==
-
-= 1.0.0 =
-* Initial release
-
-
-== Upgrade Notice ==
-
-= 1.0.0 =
-* Initial release
-
-
-== Donation ==
-
-You may donate to WordPress Foundation.
-
-http://wordpressfoundation.org/donate/
+=== Facebook Secret Meta ===Contributors: Asif2BD, onetarekDonate link: http://wordpressfoundation.org/donate/Tags: Facebook Meta, Facebook, Facebook Author Meta, Facebook New Meta, Facebook News Feed, Facebook By, Facebook Secret MetaRequires at least: 2.5.0Tested up to: 3.9.0Stable tag: 1.0.0License: GPLv2+License URI: http://www.gnu.org/licenses/gpl-2.0.htmlOnly this Secret Meta plugin enables Facebook's brand-new Author By info at News Feed. Check Screenshot & Live Example!== Description ==[WPDeveloper.net](http://wpdeveloper.net/) brings 'Facebook Secret Meta' for all WordPress user for free. You must have seen Facebook new home feed, where it shows bigger image, even for link share. Did you noticed, now it automatically shows a bit more info about the website link, just below the image and text? Check this live [example](https://www.facebook.com/WPDeveloperNet/posts/745027968850750).![Facebook Author Info highlighted](http://wpdeveloper.net/wp-content/uploads/2014/04/With-Facebook-Author-Info-hilighted.png "Facebook Author Info highlighted")[Facebook Secret Meta](http://wpdeveloper.net/free-plugin/facebook-secret-meta/) could bring that feature for you. It will add the secret codes to your site, and from now whenever anybody shares your blog/site's link in Facebook they will see you site's info and **New** Author By info.**Special Note:** Even if you have SEO plugin like **Yoast SEO**, or **All-in-One SEO** or any plugin which add normal meta or Open Graph Meta (OG meta), you will still need this plugin. There is no other plugin, or any guide anywhere in the net that describe how to gain this feature. **Only this secret plugin could bring this exclusive new feature.**  **Feature Includes:***   Super easy to use, will take just 30-sec.*   You could add customized "Author By" info, just heads over to the plugin Option page, and fill the one-line form how you want it. *   Very light weight, and works instantly.*   Ability to dynamically show post Author Name as "Author By" & more feature (Premium Feature)**Premium version with more features coming soon, [check](http://wpdeveloper.net/go/FSMPro).**== Installation === Modern Way: =1. Go to the WordPress Dashboard "Add New Plugin" section.2. Search For "Facebook Secret Meta". 3. Install, then Activate it.= Old Way: =1. Upload the ` facebook-secret-meta` folder to the `/wp-content/plugins/` directory2. Activate the plugin through the 'Plugins' menu in WordPress.= How To Enable Facebook Secret Meta: =1. Activate the Plugin.2. Heads over to the plugin Option page, and fill the one-line form how you want your "Author By" info.You are done, now post something new and share at Facebook.== Frequently Asked Questions === Does it need any theme customization or anything? =No, just activate the plugin and follow the steps.= Does it work on old post? =Yes, but only concern is Facebook Cache. Facebook retrieve meta info from cache, so even if you clean cache, Facebook might load meta from cache when you did not installed this plugin.  = Do you have more detail guideline? =Yes, check [this page](http://wpdeveloper.net/free-plugin/twitter-cards-meta/#tab2) for detail guide.= How can I get Support? =Use plugin support button in WordPress.org extended listing.More FAQs - [here](http://wpdeveloper.net/free-plugin/facebook-secret-meta/#tab3)== Screenshots ==1. Example of Author By (highlighted)2. Without this plugin, just like your site before activating this plugin3. Option Page== Changelog === 1.0.0 =* Initial release== Upgrade Notice === 1.0.0 =* Initial release== Donation ==You may donate to WordPress Foundation.http://wordpressfoundation.org/donate/
