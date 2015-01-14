@@ -3,7 +3,7 @@
  * Plugin Name: Facebook Secret Meta
  * Plugin URI: http://wpdeveloper.net/free-plugin/facebook-secret-meta/
  * Description: Only this Secret Meta plugin enables Facebook's brand-new Author By info at News Feed.
- * Version: 1.0.1
+ * Version: 1.1.0
  * Author: WPDeveloper.net
  * Author URI: http://wpdeveloper.net
  * License: GPLv2+
@@ -55,4 +55,33 @@ function fbsm_setting_links($links, $file) {
     return $links;
 }
 add_filter('plugin_action_links', 'fbsm_setting_links', 10, 2);
+
+/* Display a notice that can be dismissed */
+
+add_action('admin_notices', 'fbsm_admin_notice');
+
+function fbsm_admin_notice() {
+if ( current_user_can( 'install_plugins' ) )
+   {
+     global $current_user ;
+        $user_id = $current_user->ID;
+        /* Check that the user hasn't already clicked to ignore the message */
+     if ( ! get_user_meta($user_id, 'fbsm_ignore_notice') ) {
+        echo '<div class="updated"><p>';
+        printf(__('<b>Facebook Secret Meta Pro</b> version is available now, <a href="http://wpdeveloper.net/go/FSMPro" target="_blank"> get Pro</a>. Use Coupon "FSMPro" for 25 percent Discount, Pro version starts at $14.98, only for you! | <a href="%1$s">[Hide Offer]</a>'), '?fbsm_nag_ignore=0');
+        echo "</p></div>";
+     }
+    }
+}
+
+add_action('admin_init', 'fbsm_nag_ignore');
+
+function fbsm_nag_ignore() {
+     global $current_user;
+        $user_id = $current_user->ID;
+        /* If user clicks to ignore the notice, add that to their user meta */
+        if ( isset($_GET['fbsm_nag_ignore']) && '0' == $_GET['fbsm_nag_ignore'] ) {
+             add_user_meta($user_id, 'fbsm_ignore_notice', 'true', true);
+     }
+}
 ?>

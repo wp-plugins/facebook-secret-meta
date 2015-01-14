@@ -86,7 +86,7 @@ function fbsm_options_page()
 
             </form>
 
-  <div style=" text-align:center; "><h3><b>Premium version with more features coming soon, <a href="http://wpdeveloper.net/go/FSMPro" target="_blank">check</a>.</b></h3><br /></div>
+  <div style=" text-align:center; "><h2><b>Pro version is available now, <a href="http://wpdeveloper.net/go/FSMPro" target="_blank">get Pro</a>. Use Coupon "FSMPro" for 25% Discount!</b></h2><br /></div>
 
 
 
@@ -100,9 +100,17 @@ function fbsm_options_page()
 <br /><br />
 </center>
 <!-- end embeded example -->
+
+<h3>Pro Features:</h3>
+<ul>
+	<li># Dynamic control over "Author By Info".</li>
+	<li># Ability to select "Blog Name" or Custom Text as site-wide "Author By Info".</li>
+	<li># Ability to control what you want to show for Single Article/Post.</li>
+	<li># 3 Option for single post; 1) Default; 2) Post Author Name &amp; 3) Custom Text.</li>
+</ul>
            
 
-            <div style=" text-align:center; margin-top:10px;">Recommended Plugin for You<br /><a target="_blank" href="https://wordpress.org/plugins/wp-author-report-free/"><img style="border:2px solid #ffffff;" src="<?php echo FBSM_PLUGIN_URL."/wp-author-report-banner.png" ?>" width="690" alt="WP Author Report" /></a></div>
+            <div style=" text-align:center; margin-top:10px;">Facebook Secret Meta Pro - Option Page<br /><a target="_blank" href="http://wpdeveloper.net/go/FSMPro"><img style="border:2px solid #ffffff;" src="<?php echo FBSM_PLUGIN_URL."/FSM-Pro-Option-Page.jpg" ?>" width="690" alt="Facebook Secret Meta Pro" /></a></div>
 
 <?php
 
