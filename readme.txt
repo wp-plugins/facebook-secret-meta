@@ -1,14 +1,14 @@
 === Facebook Secret Meta ===
 Contributors: Asif2BD, onetarek
 Donate link: http://wpdeveloper.net/go/FSMProDetails
-Tags: Facebook Meta, Facebook, Facebook Author Meta, Facebook New Meta, Facebook SEO, Facebook Share, Facebook News Feed, Facebook By, Facebook Secret Meta
+Tags: Facebook Meta, Facebook, Facebook SEO, Facebook status design, Facebook Sharing, Facebook post, Facebook Author Meta, Facebook New Meta, Facebook SEO, Facebook Share, Facebook News Feed, Facebook By, Facebook Secret Meta
 Requires at least: 2.5.0
-Tested up to: 4.1
-Stable tag: 1.1.0
+Tested up to: 4.2.2
+Stable tag: 1.1.1
 License: GPLv2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Only this Secret Meta plugin enables Facebook's brand-new Author By info at News Feed. Check Screenshot & Live Example!
+Only this Secret Meta plugin enables Facebook brand-new Author By info at News Feed. Check Screenshot & Live Example!
 
 == Description ==
 
@@ -96,6 +96,10 @@ More FAQs - [here](http://wpdeveloper.net/free-plugin/facebook-secret-meta/#tab3
 
 == Changelog ==
 
+= 1.1.0 - June 08, 2015 =
+* Updated for WordPress 4.2.2
+* Option Page design updated.
+
 = 1.1.0 - January 14, 2015 =
 * Up to date with WordPress 4.1
 
@@ -106,8 +110,8 @@ More FAQs - [here](http://wpdeveloper.net/free-plugin/facebook-secret-meta/#tab3
 
 == Upgrade Notice ==
 
-= 1.1.0 =
-* Must Update, brings PRO version, 
+= 1.1.1 =
+* Must Update, now works fine with latest WordPress 4.2.2.
 
 
 

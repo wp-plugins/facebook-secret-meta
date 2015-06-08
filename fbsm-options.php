@@ -64,7 +64,20 @@ function fbsm_options_page()
 
 		 <h2>Facebook Secret Meta Option</h2>
 
+  <div style=" text-align:center; "><h2><b>Pro version is available now, <a href="http://wpdeveloper.net/go/FSMPro" target="_blank">get Pro</a>. Only $9.97 USD!!!</b></h2><br /></div>
 
+
+
+  <div style=" text-align:center; "><b>Example:(<a href="https://www.facebook.com/WPDeveloperNet/posts/745027968850750" target="_blank">Live</a>)</b><br />
+  <!--<a target="_blank" href="http://wpdeveloper.net/free-plugin/facebook-secret-meta/"><img style="border:2px solid #ffffff;" src="<?php echo FBSM_PLUGIN_URL."/fsm-live-example-1rs.jpg" ?>" width="500" alt="Facebook Secret Meta" /></a>-->
+  </div>
+<!-- embeded example -->
+<center>
+<div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-post" data-href="https://www.facebook.com/WPDeveloperNet/posts/745027968850750" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/WPDeveloperNet/posts/745027968850750">Post</a> by <a href="https://www.facebook.com/WPDeveloperNet">WPDeveloper</a>.</div></div>
+<br /><br />
+</center>
+<!-- end embeded example -->
 
             <form action="" method="post">
 
@@ -86,20 +99,7 @@ function fbsm_options_page()
 
             </form>
 
-  <div style=" text-align:center; "><h2><b>Pro version is available now, <a href="http://wpdeveloper.net/go/FSMPro" target="_blank">get Pro</a>. Use Coupon "FSMPro" for 25% Discount!</b></h2><br /></div>
 
-
-
-  <div style=" text-align:center; "><b>Example:(<a href="https://www.facebook.com/WPDeveloperNet/posts/745027968850750" target="_blank">Live</a>)</b><br />
-  <!--<a target="_blank" href="http://wpdeveloper.net/free-plugin/facebook-secret-meta/"><img style="border:2px solid #ffffff;" src="<?php echo FBSM_PLUGIN_URL."/fsm-live-example-1rs.jpg" ?>" width="500" alt="Facebook Secret Meta" /></a>-->
-  </div>
-<!-- embeded example -->
-<center>
-<div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-post" data-href="https://www.facebook.com/WPDeveloperNet/posts/745027968850750" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/WPDeveloperNet/posts/745027968850750">Post</a> by <a href="https://www.facebook.com/WPDeveloperNet">WPDeveloper</a>.</div></div>
-<br /><br />
-</center>
-<!-- end embeded example -->
 
 <h3>Pro Features:</h3>
 <ul>
@@ -110,7 +110,7 @@ function fbsm_options_page()
 </ul>
            
 
-            <div style=" text-align:center; margin-top:10px;">Facebook Secret Meta Pro - Option Page<br /><a target="_blank" href="http://wpdeveloper.net/go/FSMPro"><img style="border:2px solid #ffffff;" src="<?php echo FBSM_PLUGIN_URL."/FSM-Pro-Option-Page.jpg" ?>" width="690" alt="Facebook Secret Meta Pro" /></a></div>
+            <div style=" text-align:center; margin-top:10px;"><h2>Facebook Secret Meta Pro - Option Page</h2><br /><a target="_blank" href="http://wpdeveloper.net/go/FSMPro"><img style="border:2px solid #ffffff;" src="<?php echo FBSM_PLUGIN_URL."/FSM-Pro-Option-Page.jpg" ?>" width="690" alt="Facebook Secret Meta Pro" /></a></div>
 
 <?php
 
